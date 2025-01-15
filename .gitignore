@@ -1,0 +1,8 @@
+*.html
+*.aux
+*.log
+*.pdf
+*.out
+*.synctex.gz
+*.zip
+.vs
